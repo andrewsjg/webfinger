@@ -1,2 +1,7 @@
-# webfinger
-An implementation of the unix finger command that uses a public web or mastodon to return a plan
+# WebFinger PoC
+
+This does nothing right now. 
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
