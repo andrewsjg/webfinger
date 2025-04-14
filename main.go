@@ -26,4 +26,8 @@ func main() {
 	fmt.Printf("Display Name: %s\n", profile.DisplayName)
 	fmt.Printf("Bio: %s\n", profile.Bio)
 
+	fmt.Println("Extra Fields:")
+	for _, field := range profile.Fields {
+		fmt.Printf("- %s: %s\n", field.Name, field.Value)
+	}
 }
