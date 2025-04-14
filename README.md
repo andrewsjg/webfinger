@@ -1,6 +1,8 @@
 # WebFinger PoC
 
-This does nothing right now. 
+An implementation of the unix finger command, except using the web and/or social platforms to find a plan
+
+- Initial skeleton. Does nothing yet!
 
 ## License
 
